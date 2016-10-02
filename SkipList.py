@@ -1,3 +1,6 @@
+#imports
+import random
+
 #Skip list and Skip list objects
 class SkipList(object):
   def __init__(self, head=None, tail=None):
